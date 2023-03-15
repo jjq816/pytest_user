@@ -1,0 +1,18 @@
+{
+  "testcases/api_test/test_01_get_user_info.py::TestGetUserInfo::test_get_all_user_info[True-0-\\u67e5\\u8be2\\u6210\\u529f]": true,
+  "testcases/api_test/test_01_get_user_info.py::TestGetUserInfo::test_get_get_one_user_info[wintest1111-False-1004-\\u67e5\\u4e0d\\u5230\\u76f8\\u5173\\u7528\\u6237]": true,
+  "testcases/api_test/test_01_get_user_info.py::TestGetUserInfo::test_get_get_one_user_info[wintest4-True-0-\\u67e5\\u8be2\\u6210\\u529f]": true,
+  "testcases/api_test/test_02_register.py::TestUserRegister::test_register_user[\\u6d4b\\u8bd5test-123456-13599999999-1-\\u6df1\\u5733\\u5e02\\u5b9d\\u5b89\\u533a-True-0-\\u6ce8\\u518c\\u6210\\u529f]": true,
+  "testcases/api_test/test_02_register.py::TestUserRegister::test_register_user[wintest4-123456-13599999999-1-\\u6df1\\u5733\\u5e02\\u5b9d\\u5b89\\u533a-False-2002-\\u7528\\u6237\\u540d\\u5df2\\u5b58\\u5728]": true,
+  "testcases/api_test/test_03_login.py::TestUserLogin::test_login_user[wintest-123456-True-0-\\u767b\\u5f55\\u6210\\u529f]": true,
+  "testcases/api_test/test_04_update_user.py::TestUpdate::test_update_user[111-123456-13500010014-1-\\u6df1\\u5733\\u5e02\\u5b9d\\u5b89\\u533a-False-4005-\\u7528\\u6237ID\\u4e0d\\u5b58\\u5728]": true,
+  "testcases/api_test/test_04_update_user.py::TestUpdate::test_update_user[4-123456-1350001001-1-\\u6df1\\u5733\\u5e02\\u5b9d\\u5b89\\u533a-False-4008-\\u624b\\u673a\\u53f7\\u683c\\u5f0f\\u4e0d\\u6b63\\u786e]": true,
+  "testcases/api_test/test_04_update_user.py::TestUpdate::test_update_user[4-123456-13500010014-1-\\u6df1\\u5733\\u5e02\\u5b9d\\u5b89\\u533a-True-0-\\u4fee\\u6539\\u7528\\u6237\\u4fe1\\u606f\\u6210\\u529f]": true,
+  "testcases/api_test/test_05_delete_user.py::TestUserDelete::test_delete_user[\\u6d4b\\u8bd5test-True-0-\\u5220\\u9664\\u7528\\u6237\\u4fe1\\u606f\\u6210\\u529f]": true,
+  "testcases/api_test/test_05_delete_user.py::TestUserDelete::test_delete_user[wintest3-False-3006-\\u8be5\\u7528\\u6237\\u4e0d\\u5141\\u8bb8\\u5220\\u9664]": true,
+  "testcases/scenario_test/test_01_register_login_list.py::TestRegLogList::test_user_register_login_list": true,
+  "testcases/scenario_test/test_02_register_login_update.py::TestRegLogUpdate::test_user_register_login_update_fail": true,
+  "testcases/scenario_test/test_02_register_login_update.py::TestRegLogUpdate::test_user_register_login_update_success": true,
+  "testcases/scenario_test/test_03_register_login_delete.py::TestRegLogDelete::test_user_register_login_delete_success": true,
+  "testcases/scenario_test/test_04_repeat_register.py::TestRepeatReg::test_user_repeat_register": true
+}
